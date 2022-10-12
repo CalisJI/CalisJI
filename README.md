@@ -1,4 +1,4 @@
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Quyet</h1>
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Calis</h1>
 
 
  <br/>
@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on `Something Intresting`.
 
-- 🌱 I’m currently learning `Python`
+- 🌱 I’m currently learning `Python,React,Machine Learming...`
 
-- 👯 I’m looking to collaborate for `Dev Projects`
+- 👯 I’m looking to collaborate for `IoT Projects`
 
 - 🤔 I’m looking for help with `Competitive Programming`
 
