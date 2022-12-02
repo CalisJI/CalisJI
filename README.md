@@ -5,7 +5,7 @@
 
 ## 👨🏻‍💻 About Me:
 
-- 🙋‍♂️ All about me is at **[My Website](https://maitocode.com/)**
+- 🙋‍♂️ All about me is at **[My Website](https://maitocode.com/](https://calisji.github.io/)**
 
 - 🔭 I’m currently working on `Something Intresting`.
 
