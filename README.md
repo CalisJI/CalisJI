@@ -7,7 +7,7 @@
 
 - 🙋‍♂️ All about me is at **[My Website](https://calisji.github.io/)**
 
-- 🌱 I’m currently learning `C#,Python,React,Machine Learming...`
+- 🌱 I’m currently learning `C#,Python,Node-Red,Machine Vision,Machine Learming...`
 
 - 👯 I’m looking to collaborate for `IoT Projects`
 
