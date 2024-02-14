@@ -34,7 +34,7 @@
 ## ❤️ Let's get connected:
 
 
-## 🤝 Support Me:
+<!--## 🤝 Support Me:-->
 
 ## 📊 My GitHub Data:
 
