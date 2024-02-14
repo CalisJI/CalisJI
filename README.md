@@ -31,12 +31,12 @@
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
  
 ## ❤️ Let's get connected:
-<a href="https://www.instagram.com/calis_20.03/">
- <img alt="Instagram" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35px" /> 
-</a>
 
 <a href="https://www.linkedin.com/in/calisji/">
  <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35px"/>
+</a>
+<a href="https://www.instagram.com/calis_20.03/">
+ <img alt="Instagram" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35px" /> 
 </a>
 <a href="https://www.facebook.com/calisthenics.street.7">
  <img alt="Facebook" src="https://img.shields.io/badge/facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" height="35px"/>
