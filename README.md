@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning `C#,Python,Node-Red,Machine Vision,Machine Learming...`
 
-- 👯 I’m looking to collaborate for `IoT Projects` `Computer Vision Projects`
+- 👯 I’m looking to collaborate for `IIoT Projects``IoT Projects` `Computer Vision Projects`
 
 - 🤔 I’m looking for help with `Competitive Programming`
 
