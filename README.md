@@ -22,7 +22,7 @@
 <img alt="CSharp" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" height="25px"/>
 <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge" height="25px"/>
 <img alt="Node-RED" src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=node-red&logoColor=white" height="25px"/>
-<img src="https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=for-the-badge" alt="Arduino">
+<img alt="Arduino" src="https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=for-the-badge" height="25px">
 <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
 <img alt="Siemens" src="https://img.shields.io/badge/Siemens-009999?style=for-the-badge&logo=siemens&logoColor=white" height="25px"/>
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="25px"/>
@@ -32,10 +32,10 @@
 <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
 <img alt="Espressip" src="https://img.shields.io/badge/Espressif-E7352C?logo=espressif&logoColor=fff&style=for-the-badge" height="25px"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge" alt="Linux" height="25px">
-<img src="https://img.shields.io/badge/MicroPython-2B2728?logo=micropython&logoColor=fff&style=for-the-badge" alt="MicroPython" height="25px">
-<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=fff&style=for-the-badge" alt="Raspberry Pi" height="25px">
-<img src="https://img.shields.io/badge/ChatBot-06F?logo=chatbot&logoColor=fff&style=for-the-badge" alt="ChatBot" height="25px">
+<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge" height="25px">
+<img alt="MicroPython" src="https://img.shields.io/badge/MicroPython-2B2728?logo=micropython&logoColor=fff&style=for-the-badge" height="25px">
+<img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=fff&style=for-the-badge" height="25px">
+<img alt="ChatBot" src="https://img.shields.io/badge/ChatBot-06F?logo=chatbot&logoColor=fff&style=for-the-badge" height="25px">
 
  
 ## ❤️ Let's get connected:
