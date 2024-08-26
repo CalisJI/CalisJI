@@ -20,6 +20,7 @@
 <p>
 <!--<img alt="C#" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>-->
 <img alt="CSharp" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" height="25px"/>
+<img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=plastic" height="25px"/>
 <img alt="Node-RED" src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=node-red&logoColor=white" height="25px"/>
 <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
 <img alt="Siemens" src="https://img.shields.io/badge/Siemens-009999?style=for-the-badge&logo=siemens&logoColor=white" height="25px"/>
