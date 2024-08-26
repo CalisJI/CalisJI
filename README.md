@@ -37,7 +37,7 @@
 <img alt="MicroPython" src="https://img.shields.io/badge/MicroPython-2B2728?logo=micropython&logoColor=fff&style=for-the-badge" height="25px">
 <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=fff&style=for-the-badge" height="25px">
 <img alt="ChatBot" src="https://img.shields.io/badge/ChatBot-06F?logo=chatbot&logoColor=fff&style=for-the-badge" height="25px">
-
+<img alt="Notion" src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=for-the-badge" height="25px">
  
 ## ❤️ Let's get connected:
 
