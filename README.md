@@ -35,6 +35,8 @@
 <img src="https://img.shields.io/badge/MicroPython-2B2728?logo=micropython&logoColor=fff&style=for-the-badge" alt="MicroPython" height="25px">
 <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=fff&style=for-the-badge" alt="Raspberry Pi" height="25px">
 <img src="https://img.shields.io/badge/ChatBot-06F?logo=chatbot&logoColor=fff&style=for-the-badge" alt="ChatBot" height="25px">
+
+ 
 ## ❤️ Let's get connected:
 
 <a href="https://www.linkedin.com/in/calisji/">
